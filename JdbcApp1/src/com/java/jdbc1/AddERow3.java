@@ -1,6 +1,7 @@
 package com.java.jdbc1;
 
 import java.sql.*;
+// this program is meant for adding rows to the table using jdbc.
 import java.util.*;
 public class AddERow3 {
 
